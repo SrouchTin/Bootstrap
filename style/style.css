@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand img{
+   width: 100px;
+   height: 40px;
+   object-fit: cover;
+}
